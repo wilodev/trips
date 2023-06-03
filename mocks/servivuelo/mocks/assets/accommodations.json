@@ -1,0 +1,16 @@
+{
+  "accommodations": [
+    {
+      "type": "Estandar",
+      "available": "89"
+    },
+    {
+      "shipId": "Confort",
+      "available": "23"
+    },
+    {
+      "shipId": "Premium",
+      "available": "12"
+    }
+  ]
+}
